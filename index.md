@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+### 个人信息
 
-You can use the [editor on GitHub](https://github.com/BaoxiangChen/baoxiangchen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+#### 姓名：陈宝祥
+#### 邮箱：chenbaoxiang233@outlook.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人信息
 
-### Markdown
+### 研究方向
+#### 社交网络分析、网络表示学习、无线传感网络
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BaoxiangChen/baoxiangchen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 论文列表
+#### Chen B , Kong C , Xiu Y , et al. An Effective Construction Pattern of Wireless Sensor Network for Water Quality Detection 2019 5th International Conference on Big Data and Information Analytics (BigDIA). 2019.
+#### Chao Kong, Bao-Xiang Chen, Li-Ping Zhang. DEM: Deep Entity Matching Across Heterogeneous Information Networks. J. Comput. Sci. Technol. 35(4): 739-750 (2020).
+#### Chao Kong, Bao-Xiang Chen, Shao-Ying Li, et al. GNE: Generic Heterogeneous Information Network Embedding.  WISA 2020: 120-127.
+#### Chao Kong, Bao-Xiang Chen, Shao-Ying Li, et al. An Advanced Q-Learning Model for Multi-agent Negotiation in Real-Time Bidding. WISA 2020: 491-502.
+#### Chao Kong, Bao-Xiang Chen, Shao-Ying Li, et al. D2NE: Deep Dynamic Network Embedding. The 16th anniversary of the International Conference on Advanced Data Mining and Applications （Accepted）
+#### Chao Kong, Bao-Xiang Chen, Shao-Ying Li, et al. Privacy Attack and Defense in Network Embedding. 9th International Conference on Computational Data and Social Networks（Accepted）
+#### Bao-Xiang Chen, Chao Kong, Shao-Ying Li, et al.  Divergent and Convergent Thinking: How to Generate Fake News?. DASFAA 2021.（Submitted）
